@@ -108,16 +108,15 @@ body{
     
     background-color: var(--violet);
     background-image: url(/images/bg-mobile.svg);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;    
+}
 
-    height: 100vh;
+main{
+       
     margin: 2rem;
-    display: flex;
     color: #fff;
     font-family: var(--body-font);
     text-align: center;
-    
-    
 }
 
 
