@@ -102,3 +102,55 @@ h6 {
 /* CSS RESET END */
 
 
+
+/* Styling the Body */
+body{
+    
+    background-color: var(--violet);
+    background-image: url(/images/bg-mobile.svg);
+    background-repeat: no-repeat;
+
+    height: 100vh;
+    margin: 2rem;
+    display: flex;
+    color: #fff;
+    font-family: var(--body-font);
+    text-align: center;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 15px;
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
