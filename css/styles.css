@@ -120,6 +120,18 @@ main{
 }
 
 
+section img.logo{
+    width: 50%;
+    margin: 1rem 0 4rem 0;
+}
+section img.main-img {
+    margin: 4rem 0;
+}
+
+
+section p{
+    font-weight: 100;
+}
 
 
 
